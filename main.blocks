@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="p3{XSp`TdgQU?F2g.,$6" x="20" y="20"><statement name="HANDLER"><block type="device_led_enable" id="IZm%0j7uomR:?rtru8oM"><value name="on"><shadow type="logic_boolean" id="x1ubenQ4}RHp,Ev|D:^Q"><field name="BOOL">TRUE</field></shadow></value></block></statement></block><block type="device_forever" id="uH4YYuPNK/+#l*t6SWT~" x="45" y="204"><statement name="HANDLER"><block type="device_show_leds" id="hfSmM1_#sJGd3*k@Oe42"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="Lb{X*MqdQoWIKK~hH+,e"><value name="pause"><shadow type="timePicker" id="uTnh$l3)nO}QrXaqz}Nl"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="z5]:/HmNpOzt.MG(^0_$"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # # # # # 
+        # # # # # 
+        . # . # .
+        `</field><next><block type="device_pause" id="{d-H$P:SU4QE:i(;Zi9Y"><value name="pause"><shadow type="timePicker" id="Gg*(hnOL9jgnaTXLy:[$"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
